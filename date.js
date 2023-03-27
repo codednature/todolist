@@ -20,4 +20,4 @@ exports.getDay = function() {
 
 
 
-    // this was exported for use on app.js
+    // this was exported for use on app.js and used
